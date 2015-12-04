@@ -1,0 +1,3 @@
+[submodule "maki"]
+	path = maki
+	url = git@github.com:martindale/maki.git

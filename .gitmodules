@@ -1,3 +1,6 @@
 [submodule "maki"]
 	path = maki
-	url = git@github.com:martindale/maki.git
+	url = https://github.com/martindale/maki.git
+[submodule "fabric"]
+	path = fabric
+	url = https://github.com/martindale/fabric.git

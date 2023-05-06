@@ -3,7 +3,7 @@
 	path = fabric
 	url = git@github.com:FabricLabs/fabric.git
 [submodule "web"]
-	path = web
+	path = fabric-http
 	url = git@github.com:FabricLabs/web.git
 [submodule "rpg"]
 	path = rpg

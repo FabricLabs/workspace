@@ -8,3 +8,10 @@ projects as a single release.
 ```
 git clone --recursive git@github.com:FabricProtocol/workspace.git fabric
 ```
+
+## Development
+
+### Updating Submodules
+```
+git submodule update --recursive
+```

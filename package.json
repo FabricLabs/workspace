@@ -1,0 +1,25 @@
+{
+  "name": "@fabric/workspace",
+  "version": "0.1.0",
+  "description": "Fabric Workspace",
+  "main": "types/workspace.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabricLabs/fabric.git"
+  },
+  "keywords": [
+    "fabric"
+  ],
+  "author": "Fabric Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FabricLabs/fabric/issues"
+  },
+  "homepage": "https://github.com/FabricLabs/fabric#readme"
+}

@@ -1,3 +1,25 @@
+# Fabric Workspace Projects
+[submodule "fabric"]
+	path = fabric
+	url = git@github.com:FabricLabs/fabric.git
+[submodule "web"]
+	path = fabric-http
+	url = git@github.com:FabricLabs/web.git
+[submodule "rpg"]
+	path = rpg
+	url = git@github.com:FabricLabs/rpg.git
 [submodule "maki"]
 	path = maki
-	url = git@github.com:martindale/maki.git
+	url = git@github.com:FabricLabs/maki.git
+[submodule "doorman"]
+	path = doorman
+	url = git@github.com:FabricLabs/doorman.git
+[submodule "idlerpg"]
+	path = idlerpg
+	url = git@github.com:FabricLabs/idlerpg.git
+[submodule "idlerpg-bot"]
+	path = idlerpg-bot
+	url = git@github.com:FabricLabs/idlerpg-bot.git
+[submodule "meta"]
+	path = meta
+	url = git@github.com:FabricLabs/meta.git

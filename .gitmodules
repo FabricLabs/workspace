@@ -20,3 +20,6 @@
 [submodule "idlerpg-bot"]
 	path = idlerpg-bot
 	url = git@github.com:FabricLabs/idlerpg-bot.git
+[submodule "meta"]
+	path = meta
+	url = git@github.com:FabricLabs/meta.git

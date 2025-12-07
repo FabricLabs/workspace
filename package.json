@@ -9,6 +9,9 @@
   "scripts": {
     "test": "mocha tests"
   },
+  "devDependencies": {
+    "simple-git": "^3.30.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FabricLabs/fabric.git"

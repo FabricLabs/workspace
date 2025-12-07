@@ -1,0 +1,85 @@
+{
+  "repositories": {
+    "fabric": {
+      "link": "git@github.com:FabricLabs/fabric.git",
+      "httpsLink": "https://github.com/FabricLabs/fabric.git",
+      "cloned": true,
+      "path": "fabric",
+      "name": "@fabric/core",
+      "tested": true,
+      "timestamp": 1717756800
+    },
+    "fabric-http": {
+      "link": "git@github.com:FabricLabs/web.git",
+      "httpsLink": "https://github.com/FabricLabs/web.git",
+      "cloned": true,
+      "path": "fabric-http",
+      "name": "@fabric/http",
+      "tested": false,
+      "timestamp": null
+    },
+    "doorman": {
+      "link": "git@github.com:FabricLabs/doorman.git",
+      "httpsLink": "https://github.com/FabricLabs/doorman.git",
+      "cloned": true,
+      "path": "doorman",
+      "name": "@fabric/doorman",
+      "tested": false,
+      "timestamp": null
+    },
+    "rpg": {
+      "link": "git@github.com:FabricLabs/rpg.git",
+      "httpsLink": "https://github.com/FabricLabs/rpg.git",
+      "cloned": true,
+      "path": "rpg",
+      "name": "@fabric/rpg",
+      "tested": false,
+      "timestamp": null
+    },
+    "maki": {
+      "link": "git@github.com:FabricLabs/maki.git",
+      "httpsLink": "https://github.com/FabricLabs/maki.git",
+      "cloned": true,
+      "path": "maki",
+      "name": "@fabric/maki",
+      "tested": false,
+      "timestamp": null
+    },
+    "idlerpg": {
+      "link": "git@github.com:FabricLabs/idlerpg.git",
+      "httpsLink": "https://github.com/FabricLabs/idlerpg.git",
+      "cloned": true,
+      "path": "idlerpg",
+      "name": "idlerpg",
+      "tested": false,
+      "timestamp": null
+    },
+    "idlerpg-bot": {
+      "link": "git@github.com:FabricLabs/idlerpg-bot.git",
+      "httpsLink": "https://github.com/FabricLabs/idlerpg-bot.git",
+      "cloned": true,
+      "path": "idlerpg-bot",
+      "name": "idlerpg-bot",
+      "tested": false,
+      "timestamp": null
+    },
+    "hub.fabric.pub": {
+      "link": "git@github.com:FabricLabs/hub.fabric.pub.git",
+      "httpsLink": "https://github.com/FabricLabs/hub.fabric.pub.git",
+      "cloned": true,
+      "path": "hub.fabric.pub",
+      "name": "@fabric/hub",
+      "tested": false,
+      "timestamp": null
+    },
+    "meta": {
+      "link": "git@github.com:FabricLabs/meta.git",
+      "httpsLink": "https://github.com/FabricLabs/meta.git",
+      "cloned": false,
+      "path": "meta",
+      "name": "meta",
+      "tested": false,
+      "timestamp": null
+    }
+  }
+}

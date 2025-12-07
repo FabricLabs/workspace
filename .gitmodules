@@ -23,3 +23,6 @@
 [submodule "meta"]
 	path = meta
 	url = git@github.com:FabricLabs/meta.git
+[submodule "hub"]
+	path = hub.fabric.pub
+	url = git@github.com:FabricLabs/hub.fabric.pub.git
